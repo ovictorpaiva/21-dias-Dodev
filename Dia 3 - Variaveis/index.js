@@ -15,7 +15,7 @@ console.log(peso)
 console.log("Olá " + nome + ', você tem ' + idade + ' anos, nasceu em ' + ano + ', tem ' + altura + 'cm de altura, pesa ' + peso + 'kg e seu IMC é ' + IMC + 'kg/m2');
 */
 /* 
-//Jeito do professor:
+//------------Jeito do professor:---------------
 //Declaração de Variaveis - jeito do Giovanni
 
 let nome = ""
